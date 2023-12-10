@@ -1,0 +1,11 @@
+{
+  "name": "Password Manager",
+  "version": "1.0.0",
+  "description": "Personal Password Manager",
+  "manifest_version": 3,
+  "author": "Çağrı Kutay Ok",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Latest Covid Report"
+  }
+}
