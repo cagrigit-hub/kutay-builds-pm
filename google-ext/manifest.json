@@ -7,5 +7,11 @@
   "action": {
     "default_popup": "index.html",
     "default_title": "Latest Covid Report"
-  }
+  },
+  "content_scripts": [
+    {
+      "js": ["auto.js"],
+      "matches": ["<all_urls>"]
+    }
+  ]
 }
